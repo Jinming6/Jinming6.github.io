@@ -3,7 +3,7 @@ layout: home
 
 hero:
   name: 'Jinming6'
-  tagline: '最好的代码就是你不需要写的代码。'
+  tagline: '世界上本没有路，有了腿便有了路。 --《让子弹飞》'
   actions:
     - theme: brand
       text: 开始阅读
