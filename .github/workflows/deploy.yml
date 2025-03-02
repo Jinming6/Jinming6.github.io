@@ -27,7 +27,7 @@ jobs:
       - name: Install dependencies
         run: pnpm install
       - name: Build
-        run: pnpm run docs:build
+        run: pnpm run build
       - name: Check build output
         run: ls -la dist
       - uses: actions/configure-pages@v2
