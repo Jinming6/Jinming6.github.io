@@ -9,7 +9,7 @@ function App() {
     <div className="text-white/95 text-center">
       <BlurText
         text="🚧 施 工 中 ， 敬 请 期 待 。"
-        delay={150}
+        delay={100}
         animateBy="words"
         direction="top"
         onAnimationComplete={handleAnimationComplete}
